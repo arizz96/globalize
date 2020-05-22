@@ -334,9 +334,6 @@ RequestStore includes a Railtie that will configure everything properly for Rail
 
 If you're not using Rails, you may need to consult a RequestStore's [README](https://github.com/steveklabnik/request_store#no-rails-no-problem) to configure it.
 
-## Tutorials and articles
-* [Go Global with Rails and I18n](http://www.sitepoint.com/go-global-rails-i18n/) - introductory article about i18n in Rails (Ilya Bodrov)
-
 ## Official Globalize extensions
 
 * [globalize-accessors](https://github.com/globalize/globalize-accessors) - Replacement for [easy_globalize_3_accessors](https://github.com/paneq/easy_globalize3_accessors) compatible with Globalize 3.x and 4.x.
